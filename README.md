@@ -8,6 +8,14 @@ Built by Ekaansh Agrawal, Lakshya Wahi, Cheren Song, and Devon Parikh as a submi
 
 ---
 
+## Demo
+
+**Note:** The hosted demo has been taken down because its database and AI services were cancelled after the hackathon. See the demo video/screenshots below, or run it locally with your own API keys (see [Getting started](#getting-started)).
+
+- **Video Demo** [YouTube](https://youtu.be/M-NlWV4Hcpo)
+- **Live Pitch Slides** [Slides](https://docs.google.com/presentation/d/1vps5q3i2KT266OWTm-9FTKJ8A2schKIwDy6PIJtGVzw/edit?usp=sharing)
+
+
 ## Features
 
 - **Onboarding profile.** Pick from 68 interests across 8 groups, then add a home city and country, sports teams, a stock watchlist, other places, companies, people, and topics to skip.
