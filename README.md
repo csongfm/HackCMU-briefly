@@ -45,7 +45,7 @@ Built by Ekaansh Agrawal, Lakshya Wahi, Cheren Song, and Devon Parikh as a submi
 ### Setup
 
 ```bash
-git clone <your-repo-url>
+git clone https://github.com/csongfm/HackCMU-briefly.git
 cd briefly
 npm install
 cp .env.example .env.local
